@@ -11,8 +11,6 @@
 - .SamFR (.samfr)
 
 ## Команда разработчиков
-- Dan_Vulf (danvulf)
-- IrxFatal (irxfatal)
 - Rit Pennachio (ritpennachio)
 
 ## Команда озвучки
