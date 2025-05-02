@@ -3,9 +3,10 @@
 
 ## Руководитель прокета
 - Rldacas (rldacas_)
+- .SamFR (.samfr)
 
 ## Генеральный директор
-- Aika (aestox)
+- 
 
 ## Тех. администратор
 - .SamFR (.samfr)
@@ -14,5 +15,3 @@
 - Rit Pennachio (ritpennachio)
 
 ## Команда озвучки
-- AleX_5 (`_alex_myxaxa_`)
-- seXXXkapkan (asuna1mjm)
